@@ -21,7 +21,7 @@
     "@sanity/core": "^2.0.1",
     "@sanity/default-layout": "^2.0.1",
     "@sanity/default-login": "^2.0.1",
-    "@sanity/desk-tool": "^2.0.1",
+    "@sanity/desk-tool": "^2.36.2",
     "@sanity/react-hooks": "^2.0.1",
     "@sanity/vision": "^2.0.1",
     "react": "^16.12.0",
